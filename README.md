@@ -16,7 +16,8 @@ I implemented a **_multivariable linear regression model_** to forecast house pr
 
 Additionally, I take into account issues like _Multicollinearity_ in linear regression, to make sure my program is as precise as possible. 
 
-**Data Visualization Work**
+**Data Visualization Work:**
+
 Below is a model to demonstrate the different correlations between the variables in the dataset. 
 ![correlation](https://user-images.githubusercontent.com/31941027/108793485-9a82db80-7551-11eb-9f41-c219024a38a0.PNG)
 

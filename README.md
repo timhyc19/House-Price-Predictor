@@ -7,9 +7,9 @@ The following program uses **Python**, **Matplotlib**, **Numpy**, **Sympy**, **P
 1. Formulate a question 
 2. Gather the data
 3. Clean the data
-4. Explore the possibilites and correlations
+4. Explore the possibilities and correlations
 5. Model the data graphically
-6. Evaulate the price within a function
+6. Evaluate the price within a function
 
 **Algorithm:**
 I implemented a **_multivariable linear regression model_** to forecast house prices. This method, also known as multiple regression, is a statistical technique that uses several parameter variables to predict an outcome of a response variable. In this case, I extracted several variables from the dataset, including house prices, crime rates, age, proximity to water, tax, and more, to make my model more accurate. I picked out which variables had a low p-value corresponding to the initial price data, and also other conditions that had logical sense for this particular problem. I then applied my knowledge in distribution methods, standard deviation, MSE, RMSE etc ... to do a final calculation of what the house price would be. 
